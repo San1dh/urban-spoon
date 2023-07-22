@@ -6,4 +6,4 @@ void main()
   //scanf("%d", &p);
   int x= n^2;
   printf("%d\n", x);
-}
+} 
