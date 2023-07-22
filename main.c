@@ -1,4 +1,4 @@
-// pointers address example
+// pointers' address example
 
 #include<stdio.h>
 int main(){
